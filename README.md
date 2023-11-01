@@ -9,7 +9,9 @@ pygame
 Visual studio IDE
 
 ### SETUP
-Making Hangman class - Create a Python file named hangman.py and inside it, import os, random, and ascii_letters from the string module. 
+Making Hangman class 
+
+Create a Python file named hangman.py and inside it, import os, random, and ascii_letters from the string module. 
 
 The __init__function 
 
