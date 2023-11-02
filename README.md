@@ -23,7 +23,7 @@ Running the game with main()
 
 Integrate some unit tests 
 
-Metrics
+Using Metrics
 
 ### GUIDE
 Feteching the game words.
