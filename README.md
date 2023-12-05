@@ -36,10 +36,10 @@ https://github.com/Ninitharam/Ninitharam/tree/origin/UML%20Diagrams%20Link
 Two variants used and by mapping requirements in 2 tools .
 
 - self-made version
-  Trello 
+  -Trello 
   https://trello.com/b/7pobofqu/hangman-game
   
 - Professional version
-  Jira 
+  -Jira 
   https://softwaredevelopmentproject.atlassian.net/jira/software/projects/HG/boards/3
   
