@@ -5,8 +5,8 @@ is drawn for each wrong guess. Attempting to guess the word before the hangman i
 The hangman is completed or the word is correctly guessed to signal the end of the game.
 
 ### TABLE OF CONTENTS 
-1.Git 
-2.UML
+- Git
+- UML
 3.Requirements Engneering 
 4.Analysis
 5.DDD
