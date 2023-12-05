@@ -1,0 +1,85 @@
+@startuml
+
+skin rose
+
+title ACTIVITY DIAGRAM\n HANGAMAN GAME
+skinparam backgroundColor #BBBBBB
+skinparam activity {
+  StartColor Blue
+  EndColor Red
+  BackgroundColor Pink
+  BorderColor Yellow
+}
+
+start
+
+:Start Game;
+
+note left
+    * Begin the Hangman game
+end note
+
+:Intiliaze Game;
+
+note left 
+    * Set up the game by selecting a word or phrase for the player to guess.
+    *Initialize variables, such as the word to be guessed, the number of 
+     incorrect guesses allowed, and the current state of the guessed word.
+end note 
+
+:Display Intial State;
+
+note left
+    * Show the initial state of the word, which is usually represented by
+      underscores for each letter.
+end note
+
+:Player Guess;
+
+note left
+    * Receive a guess from the player.
+end note
+
+if (Check the Guess) then (yes)
+  :Update;
+
+note left
+    *display to reveal the correct guesses.
+end note
+
+  if (Checking) then (yes)
+  
+note left
+    * If the entire word has been guessed.
+end note
+
+    :Game Won! message;
+  else (no)
+    :back to player guess;
+  endif
+  :Game Over;
+else (no)
+  :Update;
+  
+note right
+    * the number of incorrect guesses allowed.
+end note
+
+ if (Checking) then (yes)
+  
+note right
+    * if the player has exceeded the allowed number of incorrect guesses.
+end note
+
+    :Game Lost! message;
+  else (no)
+    :back to player guess;
+  endif
+  :Game Over;
+
+endif
+
+stop
+:Stop Game;
+
+@enduml

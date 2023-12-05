@@ -1,0 +1,45 @@
+@startuml
+
+title CLASS DIAGRAM\n HANGMAN GAME
+skinparam backgroundColor #BBBBBB
+skinparam activity {
+  StartColor Blue
+  EndColor Red
+  BackgroundColor Pink
+  BorderColor Yellow
+}
+class GameController {
+  -hangmanGame: HangmanGame
+  -wordGenerator: WordGenerator
+  +startNewGame(): void
+  +makeGuess(letter: String): boolean
+  +displayGameStatus(): void
+  +displayGameOver(): void
+}
+
+class HangmanGame {
+  -wordToGuess: String
+  -guessedLetters: Set<String>
+  -maxAttempts: int
+  -currentAttempts: int
+  -isGameOver: boolean
+  +HangmanGame(wordToGuess: String, maxAttempts: int)
+  +guessLetter(letter: String): boolean
+  +isWordGuessed(): boolean
+  +isGameOver(): boolean
+}
+
+class Player {
+  -name: String
+  +Player(name: String)
+  +makeGuess(game: HangmanGame, letter: String): boolean
+}
+
+class WordGenerator {
+  +generateWord(): String
+}
+
+GameController *-- HangmanGame
+GameController *-- WordGenerator
+HangmanGame *-- Player
+@enduml
