@@ -1,4 +1,4 @@
-# HANGMAN 
+# HANGMAN GAME
 Player thinks of a word in the word-guessing game Hangman, while the other player tries to guess it by offering letters. 
 At first, the word is shown as a series of dashes, each dash denoting a different letter. A portion of a stick figure (the "hangman")
 is drawn for each wrong guess. Attempting to guess the word before the hangman is fully drawn is the task of the guessing player. 
