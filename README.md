@@ -34,4 +34,9 @@ https://github.com/Ninitharam/Ninitharam/tree/origin/UML%20Diagrams%20Link
 
 ### 3. Requirements Engineering
 Using the methods of of Requirements Engneering by mapping requirements.
-Two variants used self-made-Trello and Professional-Jira Software respectively.
+Two variants used 
+
+- self-made-Trello
+  https://trello.com/b/7pobofqu/hangman-game
+  
+- Professional-Jira Software 
