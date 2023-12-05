@@ -1,8 +1,5 @@
 # HANGMAN GAME
-Player thinks of a word in the word-guessing game Hangman, while the other player tries to guess it by offering letters. 
-At first, the word is shown as a series of dashes, each dash denoting a different letter. A portion of a stick figure (the "hangman")
-is drawn for each wrong guess. Attempting to guess the word before the hangman is fully drawn is the task of the guessing player. 
-The hangman is completed or the word is correctly guessed to signal the end of the game.
+In an electronic version of the word guessing game Hangman, participants use letter suggestions to try and solve a hidden word. Usually, a randomly chosen word that is represented by a string of dashes for each letter appears at the start of the game. As players guess, the word's proper letters are exposed, while their wrong guesses help to gradually draw a hangman figure. When the word is correctly guessed or the hangman is entirely drawn, which indicates a loss, the game is over. The gallows and letter displays, among other visual components, give users an interactive and interesting interface experience. 
 
 ### TABLE OF CONTENTS 
 - Git
