@@ -1,0 +1,34 @@
+@startuml
+
+skin rose
+
+title DEPLOYMENT DIAGRAM\n HANGMAN GAME
+skinparam backgroundColor #BBBBBB
+skinparam activity {
+  StartColor Blue
+  EndColor Red
+  BackgroundColor Pink
+  BorderColor Yellow
+}
+!define GAME_ENGINE component GameEngine
+!define PLAYER_INTERFACE component PlayerInterface
+!define WORD_GENERATOR component WordGenerator
+!define GAME_CONTROLLER component GameController
+!define PLAYER_GUI component PlayerGUI
+
+node "Player's Device" {
+  folder "Hangman Game App" {
+    GAME_ENGINE
+    PLAYER_INTERFACE
+    WORD_GENERATOR
+    GAME_CONTROLLER
+    PLAYER_GUI
+  }
+}
+
+node "Server" {
+  database "Word Database"
+}
+
+
+@enduml
