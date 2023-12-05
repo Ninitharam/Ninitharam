@@ -33,10 +33,13 @@ PNGs and Planttext Files
 https://github.com/Ninitharam/Ninitharam/tree/origin/UML%20Diagrams%20Link
 
 ### 3. Requirements Engineering
-Using the methods of of Requirements Engneering by mapping requirements.
-Two variants used 
+Two variants used and by mapping requirements in 2 tools .
 
-- self-made-Trello
+- self-made version
+  Trello 
   https://trello.com/b/7pobofqu/hangman-game
   
-- Professional-Jira Software 
+- Professional version
+  Jira 
+  https://softwaredevelopmentproject.atlassian.net/jira/software/projects/HG/boards/3
+  
