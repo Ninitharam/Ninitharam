@@ -37,9 +37,9 @@ Two variants used and by mapping requirements in 2 tools .
 
 1.Self-made version
   -Trello 
-  https://trello.com/b/7pobofqu/hangman-game
+   https://trello.com/b/7pobofqu/hangman-game
   
 2.Professional version
   -Jira 
-  https://softwaredevelopmentproject.atlassian.net/jira/software/projects/HG/boards/3
+   https://softwaredevelopmentproject.atlassian.net/jira/software/projects/HG/boards/3
   
