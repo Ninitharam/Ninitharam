@@ -5,8 +5,7 @@ Usage of GitHub for the whole project time
 
 ### 2.UML
 UML Diagrams created with Plantext(Dynamic-Activity diagram and Static-Class and Deployment Diagram)
-PlantUML text into a URL PNG format
-https://github.com/Ninitharam/Ninitharam/tree/origin/UML%20Diagrams%20Link
+-> https://github.com/Ninitharam/Ninitharam/tree/origin/UML%20Diagrams%20Link
 
 ### 3. Requirements Engineering
 Using the methods of of Requirements Engneering by mapping requirements.
