@@ -1,4 +1,4 @@
-### HANGMAN 
+# HANGMAN 
 Player thinks of a word in the word-guessing game Hangman, while the other player tries to guess it by offering letters. 
 At first, the word is shown as a series of dashes, each dash denoting a different letter. A portion of a stick figure (the "hangman")
 is drawn for each wrong guess. Attempting to guess the word before the hangman is fully drawn is the task of the guessing player. 
@@ -7,15 +7,15 @@ The hangman is completed or the word is correctly guessed to signal the endÂ ofÂ
 ### TABLE OF CONTENTS 
 - Git
 - UML
-3.Requirements Engneering 
-4.Analysis
-5.DDD
-6.Metrics
-7.Clean Code Development 
-8.Build Management 
-9.Unit tests
-10.IDE
-11.Functional Programming 
+- Requirements Engneering
+- Analysis
+- DDD
+- Metrics
+- Clean Code Development
+- Build Management
+- Unit tests
+- IDE
+- Functional Programming 
 
 ### 1.Git
 Usage of GitHub for the whole project time
