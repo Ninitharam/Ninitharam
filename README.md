@@ -30,7 +30,7 @@ PNGs and Planttext Files
 https://github.com/Ninitharam/Ninitharam/tree/origin/UML%20Diagrams%20Link
 
 ### 3. Requirements Engineering
-Two variants used and by mapping requirements in 2 tools .
+Two variants used and by mapping functional and non-functional requirements in 2 tools .
 
 - Self-made version
   - Trello 
