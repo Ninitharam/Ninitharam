@@ -64,3 +64,45 @@ def redraw_game_window():
     pic = hangmanPics[limbs]
     win.blit(pic, (winWidth/2 - pic.get_width()/2 + 20, 150))
     pygame.display.update()
+
+### DEFINING THE RANDOM WORD FUNCTION THAT WILL GENERATE A RANDOMIZED WORD ###
+
+def randomWord():
+    file = open('words.txt')
+    f = file.readlines()
+    i = random.randrange(0, len(f) - 1)
+
+    return f[i][:-1]
+
+
+def hang(guess):
+    global word
+    if guess.lower() not in word.lower():
+        return True
+    else:
+        return False
+
+
+def spacedOut(word, guessed=[]):
+    spacedWord = ''
+    guessedLetters = guessed
+    for x in range(len(word)):
+        if word[x] != ' ':
+            spacedWord += '_ '
+            for i in range(len(guessedLetters)):
+                if word[x].upper() == guessedLetters[i]:
+                    spacedWord = spacedWord[:-2]
+                    spacedWord += word[x].upper() + ' '
+        elif word[x] == ' ':
+            spacedWord += ' '
+    return spacedWord
+            
+
+def buttonHit(x, y):
+    for i in range(len(buttons)):
+        if x < buttons[i][1] + 20 and x > buttons[i][1] - 20:
+            if y < buttons[i][2] + 20 and y > buttons[i][2] - 20:
+                return buttons[i][5]
+    return None
+
+
