@@ -5,7 +5,6 @@ In an electronic version of the word guessing game Hangman, participants use let
 - Git
 - UML
 - Requirements Engneering
-- Analysis
 - DDD
 - Metrics
 - Clean Code Development
@@ -14,13 +13,13 @@ In an electronic version of the word guessing game Hangman, participants use let
 - IDE
 - Functional Programming 
 
-### 1.Git
+### GIT
 Usage of GitHub for the whole project time
 
 Commit History 
 https://github.com/Ninitharam/Ninitharam/commits/91513ffed749415ea4d3a1662572b54d90d0fdd1
 
-### 2.UML
+### UML
 UML Diagrams created with Plantext UML
 
 + Dynamic-Activity diagram
@@ -29,7 +28,7 @@ UML Diagrams created with Plantext UML
 PNGs and Planttext Files
 https://github.com/Ninitharam/Ninitharam/tree/origin/UML%20Diagrams%20Link
 
-### 3. Requirements Engineering
+### REQUIREMENTS ENGINEERING
 Two variants used and by mapping functional and non-functional requirements in 2 tools .
 
 - Self-made version
@@ -39,4 +38,11 @@ Two variants used and by mapping functional and non-functional requirements in 2
 - Professional version
   - Jira 
    https://softwaredevelopmentproject.atlassian.net/jira/software/projects/HG/boards/3
+### DDD
+### METRICS
+### CLEAN CODE DEVLOPMENT
+### BUILD MANAGEMENT
+### UNIT TESTS
+### IDE 
+### FUNCTIONAL PROGRAMMING
   
