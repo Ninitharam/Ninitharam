@@ -44,5 +44,29 @@ Two variants used and by mapping functional and non-functional requirements in 2
 ### BUILD MANAGEMENT
 ### UNIT TESTS
 ### IDE 
++ Visual Studio Code
+  
+### Favourite Shortcut Keys
+
++ F5 (Start Debugging) - Handy for quickly refactoring code, which is useful when iterating on game logic.
+
++ Ctrl + Shift + B (Build Solution) - Essential for running  Hangman game to test changes as I develop.
+
++ Ctrl + Space (IntelliSense) - Quickly builds the game to check for compile-time errors.
+
++ F9 (Toggle Breakpoint) - Offers code completion suggestions which are useful when coding game logic.
+
++ F12 (Go To Definition) - Extremely helpful for debugging game logic, like checking conditions for winning or losing.
+
++ Ctrl + - (Navigate Backwards) / Ctrl + Shift + - (Navigate Forwards) - Find where a specific method or variable is used throughout the game code.
+
++ Ctrl + Shift + F (Find in Files) - Quickly find and jump to any file or symbol in the project.
+
++ Ctrl + K, Ctrl + D (Format Document) - Quickly delete lines of code.
+
++ Alt + Enter (Full Screen) - Format game code to make it more readable and maintain a consistent coding style.
+
++ Ctrl + Z (Undo) / Ctrl + Y (Redo) - Focus on coding without distractions.
+
 ### FUNCTIONAL PROGRAMMING
   
