@@ -80,6 +80,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
    https://softwaredevelopmentproject.atlassian.net/jira/software/projects/HG/boards/3
 ### DDD (DOMAIN DRIVEN DEVELOPMENT )
 Link to DDD Miro Board 
+
 https://miro.com/app/board/uXjVN9lL9H8=/?share_link_id=452751581660
 ### METRICS
 ### CLEAN CODE DEVLOPMENT
