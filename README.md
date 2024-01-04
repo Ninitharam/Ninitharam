@@ -32,7 +32,7 @@ In an electronic version of the word guessing game Hangman, participants use let
 - Learning Resources
   - Pygame Documentation: Essential for understanding the functions and modules in Pygame.
   - Visual Studio Python Documentation: Helpful for leveraging Visual Studio's features for Python development.
-  - 
+    
 ### GAME FEATURES
 - Core Game Features
   - Word Bank: A collection of words from which the game randomly selects a secret word for each round.
