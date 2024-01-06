@@ -87,6 +87,8 @@ Two variants used and by mapping functional and non-functional requirements in 2
 
  A permissions restriction may prevent access; an overview of the images is given
 
+ https://github.com/Ninitharam/Ninitharam/tree/origin/JIRA
+
  
 ### DDD (DOMAIN DRIVEN DEVELOPMENT )
 Link to DDD Miro Board 
