@@ -1,5 +1,4 @@
 # HANGMAN GAME
-![Hangman_Picture](https://github.com/Ninitharam/Ninitharam/assets/148867057/9ca325c7-9c48-4355-85b9-7afd2fe76f1b)
 
 ### TABLE OF CONTENTS 
 - About
