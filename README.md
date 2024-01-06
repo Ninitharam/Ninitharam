@@ -57,6 +57,8 @@ In an electronic version of the word guessing game Hangman, participants use let
 Usage of GitHub for the whole project time
 
 Commit History 
+
+
 https://github.com/Ninitharam/Ninitharam/commits/91513ffed749415ea4d3a1662572b54d90d0fdd1
 
 ### UML
@@ -78,10 +80,14 @@ Two variants used and by mapping functional and non-functional requirements in 2
     
    https://trello.com/b/7pobofqu/hangman-game
   
-- Professional version
+- Professional version 
   - Jira
     
    https://softwaredevelopmentproject.atlassian.net/jira/software/projects/HG/boards/3
+
+ A permissions restriction may prevent access; an overview of the images is given
+
+ 
 ### DDD (DOMAIN DRIVEN DEVELOPMENT )
 Link to DDD Miro Board 
 
