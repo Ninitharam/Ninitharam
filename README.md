@@ -20,7 +20,7 @@ In an electronic version of the word guessing game Hangman, participants use let
 
 ### PREREQUISITE
 - Software and Tools
-   - Visual Studio: Ensure you have Visual Studio installed. You can download it from the https://visualstudio.microsoft.com/ website.
+   - Visual Studio: Ensure you have Visual Studio installed. You can download it from the [Visual studio](https://visualstudio.microsoft.com/) website.
      The Community Edition is free and should suffice for this project.
    - Python Development Workload in Visual Studio: During the installation (or modification, if already installed) of Visual Studio,
      select the Python development workload. This includes the Python runtime and necessary tools to develop Python applications.
