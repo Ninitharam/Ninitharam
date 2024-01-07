@@ -1,4 +1,5 @@
 # HANGMAN GAME
+![Hangman_Picture](https://github.com/Ninitharam/Ninitharam/assets/148867057/d7a2b4c6-4bb7-4b2f-b851-af46ccb30dca)
 
 ### TABLE OF CONTENTS 
 - About
@@ -58,8 +59,7 @@ Usage of GitHub for the whole project time
 
 Commit History 
 
-
-https://github.com/Ninitharam/Ninitharam/commits/91513ffed749415ea4d3a1662572b54d90d0fdd1
+[Commit History](https://github.com/Ninitharam/Ninitharam/commits/91513ffed749415ea4d3a1662572b54d90d0fdd1)
 
 ### UML
 UML Diagrams created with Plantext UML
