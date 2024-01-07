@@ -1,5 +1,4 @@
 # HANGMAN GAME
-![Hangman_Picture](https://github.com/Ninitharam/Ninitharam/assets/148867057/d7a2b4c6-4bb7-4b2f-b851-af46ccb30dca)
 
 ### TABLE OF CONTENTS 
 - About
@@ -57,9 +56,7 @@ In an electronic version of the word guessing game Hangman, participants use let
 ### GIT
 Usage of GitHub for the whole project time
 
-Commit History 
-
-[Commit History](https://github.com/Ninitharam/Ninitharam/commits/91513ffed749415ea4d3a1662572b54d90d0fdd1)
+[GIT Commit History](https://github.com/Ninitharam/Ninitharam/commits/91513ffed749415ea4d3a1662572b54d90d0fdd1)
 
 ### UML
 UML Diagrams created with Plantext UML
@@ -69,31 +66,27 @@ UML Diagrams created with Plantext UML
 
 PNGs and Planttext Files
 
-
-https://github.com/Ninitharam/Ninitharam/tree/origin/UML%20Diagrams%20Link
+[UML Diagrams](https://github.com/Ninitharam/Ninitharam/tree/origin/UML%20Diagrams%20Link
 
 ### REQUIREMENTS ENGINEERING
 Two variants used and by mapping functional and non-functional requirements in 2 tools .
 
 - Self-made version
-  - Trello
     
-   https://trello.com/b/7pobofqu/hangman-game
+  [Trello](https://trello.com/b/7pobofqu/hangman-game)
   
 - Professional version 
-  - Jira
-    
-   https://softwaredevelopmentproject.atlassian.net/jira/software/projects/HG/boards/3
+  
+  [Jira](https://softwaredevelopmentproject.atlassian.net/jira/software/projects/HG/boards/3)
 
  A permissions restriction may prevent access; an overview of the images is given
 
- https://github.com/Ninitharam/Ninitharam/tree/origin/JIRA
+ [Jira(Image Overview)](https://github.com/Ninitharam/Ninitharam/tree/origin/JIRA)
 
  
 ### DDD (DOMAIN DRIVEN DEVELOPMENT )
-Link to DDD Miro Board 
 
-https://miro.com/app/board/uXjVN9lL9H8=/?share_link_id=452751581660
+[Link to DDD Miro Board ](https://miro.com/app/board/uXjVN9lL9H8=/?share_link_id=452751581660)
 ### METRICS
 ### CLEAN CODE DEVLOPMENT
 ### BUILD MANAGEMENT
