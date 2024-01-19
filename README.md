@@ -87,7 +87,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 ### DDD (DOMAIN DRIVEN DEVELOPMENT )
 
 - [Event Storming ](https://miro.com/app/board/uXjVN3vYjKk=/?share_link_id=537377883470)
-- [Core Domain Chart] (https://lucid.app/lucidspark/eab2b801-8a73-444a-ad13-e2a8062864b4/edit?viewport_loc=-4188%2C571%2C6954%2C2993%2C0_0&invitationId=inv_8e4f1535-6d72-487d-bd82-6c793f100860)
+- [Core Domain Chart](https://lucid.app/lucidspark/eab2b801-8a73-444a-ad13-e2a8062864b4/edit?viewport_loc=-4188%2C571%2C6954%2C2993%2C0_0&invitationId=inv_8e4f1535-6d72-487d-bd82-6c793f100860)
    A permissions restriction may prevent access; an overview of the images is given
   
 ### METRICS
