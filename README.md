@@ -19,6 +19,7 @@
 - Git
 - UML
 - Requirements Engneering
+- Analysis
 - DDD
 - Metrics
 - Clean Code Development
@@ -96,6 +97,8 @@ Two variants used and by mapping functional and non-functional requirements in 2
  [JIRA (Image Overview)](https://github.com/Ninitharam/Ninitharam/tree/origin/JIRA)
 
  
+### ANALYSIS
+
 ### DDD (DOMAIN DRIVEN DEVELOPMENT )
 
 - [Event Storming ](https://miro.com/app/board/uXjVN3vYjKk=/?share_link_id=537377883470)
