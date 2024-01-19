@@ -87,7 +87,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 ### DDD (DOMAIN DRIVEN DEVELOPMENT )
 
 - [Event Storming ](https://miro.com/app/board/uXjVN3vYjKk=/?share_link_id=537377883470)
-- [Core Domain Chart and Mapping between Domains](https://github.com/Ninitharam/Ninitharam/assets/148867057/4d149ec9-288f-4135-b7d6-3f0037a2c041)
+- [Core Domain Chart and Mapping between Domains](https://github.com/Ninitharam/Ninitharam/assets/148867057/d6452691-2243-4485-8107-e88badaddf5e)
 
 ### METRICS
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
