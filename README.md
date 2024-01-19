@@ -88,6 +88,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 
 - [Event Storming ](https://miro.com/app/board/uXjVN3vYjKk=/?share_link_id=537377883470)
 - [Core Domain Chart and Mapping between Domains](https://github.com/Ninitharam/Ninitharam/assets/148867057/d6452691-2243-4485-8107-e88badaddf5e)
+- [DDD Overview Images](https://github.com/Ninitharam/Ninitharam/tree/origin/DDD)
 
 ### METRICS
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
@@ -98,6 +99,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
+
 ### CLEAN CODE DEVLOPMENT
 ### BUILD MANAGEMENT
 ### UNIT TESTS
