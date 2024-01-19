@@ -86,6 +86,8 @@ Two variants used and by mapping functional and non-functional requirements in 2
  
 ### DDD (DOMAIN DRIVEN DEVELOPMENT )
 
+- [Event Storming ](https://miro.com/app/board/uXjVN3vYjKk=/?share_link_id=537377883470)
+
 ### METRICS
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
