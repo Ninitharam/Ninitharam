@@ -65,7 +65,7 @@ In an electronic version of the word guessing game Hangman, participants use let
    - Win/Lose Conditions: Clear conditions for winning (guessing the word) and losing (exceeding the incorrect guess limit).
    - Game Restart Option: Allowing the player to start a new game once the current game ends.
 
-### GIT
+### GIT COMMIT HISTORY
 Usage of GitHub for the whole project time
 
 [GIT Commit History](https://github.com/Ninitharam/Ninitharam/commits/91513ffed749415ea4d3a1662572b54d90d0fdd1)
