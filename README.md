@@ -87,7 +87,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 ### DDD (DOMAIN DRIVEN DEVELOPMENT )
 
 - [Event Storming ](https://miro.com/app/board/uXjVN3vYjKk=/?share_link_id=537377883470)
-![CoreDomainChart](https://github.com/Ninitharam/Ninitharam/assets/148867057/0ae043bd-0418-4979-afc1-9450f56391e8)
+[CoreDomainChart](https://github.com/Ninitharam/Ninitharam/assets/148867057/0ae043bd-0418-4979-afc1-9450f56391e8)
 
   
 ### METRICS
