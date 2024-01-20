@@ -15,8 +15,7 @@
 ### TABLE OF CONTENTS 
 - About
 - Prerequisite
-- Game Features
-- Git
+- Git Commit History
 - UML
 - Requirements Engneering
 - Analysis
@@ -46,26 +45,6 @@ In an electronic version of the word guessing game Hangman, participants use let
   - Pygame Documentation: Essential for understanding the functions and modules in Pygame.
   - Visual Studio Python Documentation: Helpful for leveraging Visual Studio's features for Python development.
     
-### GAME FEATURES
-- Core Game Features
-  - Word Bank: A collection of words from which the game randomly selects a secret word for each round.
-  - Display of Blanks: Representing the secret word with underscores or dashes for each missing letter.
-  - Letter Guessing Mechanism: Allowing the player to input guesses, typically one letter at a time.
-  - Limited Attempts: A maximum number of incorrect guesses before the game is lost.
-
-- Visual Representation
-   - Text-Based Hangman: Displaying the hangman and gallows as ASCII art, updating with each incorrect guess.
-   - Graphical Hangman (using Pygame ): A more visually appealing hangman and gallows that get drawn or revealed progressively.
-     
-- User Interface
-   - Input Validation: Ensuring that user inputs are valid (e.g., single characters, alphabetic input).
-   - Real-Time Feedback: Immediate feedback on guesses, showing correctly guessed letters and previously attempted letters.
-   - Game Status: Displaying the number of remaining guesses and, optionally, a list of incorrect guesses.
-     
-- Game Logic and Flow
-   - Win/Lose Conditions: Clear conditions for winning (guessing the word) and losing (exceeding the incorrect guess limit).
-   - Game Restart Option: Allowing the player to start a new game once the current game ends.
-
 ### GIT COMMIT HISTORY
 Usage of GitHub for the whole project time
 
