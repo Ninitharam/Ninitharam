@@ -116,4 +116,8 @@ Two variants used and by mapping functional and non-functional requirements in 2
 + Ctrl + Z (Undo) / Ctrl + Y (Redo) - Focus on coding without distractions.
 
 ### FUNCTIONAL PROGRAMMING
-  
+- only final data structures
+- (mostly) side-effect-free functions
+- the use of higher-order functions
+- functions as parameters and return values
+- use closures / anonymous functions
