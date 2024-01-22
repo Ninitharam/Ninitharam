@@ -91,7 +91,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 ### BUILD MANAGEMENT
 ### UNIT TESTS
 ### IDE 
-+ Visual Studio Code
++ [Visual studio](https://visualstudio.microsoft.com/) 
   
 ### Favourite Shortcut Keys
 
