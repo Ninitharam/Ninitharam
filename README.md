@@ -116,10 +116,17 @@ Two variants used and by mapping functional and non-functional requirements in 2
 + Ctrl + Z (Undo) / Ctrl + Y (Redo) - Focus on coding without distractions.
 
 ### FUNCTIONAL PROGRAMMING
-- [only final data structures](https://github.com/Ninitharam/Ninitharam/blob/e9476578f5cc6522f25c0d7ade74151d5c090b6e/FunctionalProgramming/IndianCuisine.py#L5)
-- (mostly) side-effect-free functions
-- the use of higher-order functions
-- functions as parameters and return values
-- use closures / anonymous functions
 
 [Functional Programming link](https://github.com/Ninitharam/Ninitharam/tree/origin/FunctionalProgramming)
+
+- [only final data structures](https://github.com/Ninitharam/Ninitharam/blob/e9476578f5cc6522f25c0d7ade74151d5c090b6e/FunctionalProgramming/IndianCuisine.py#L5)
+- [(mostly) side-effect-free functions](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L17)
+- [the use of higher-order functions](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L22)
+- [functions as parameters and return values](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L30) 
+- [use closures / anonymous functions](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L33)
+- [Define initial data structure](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L38)
+- [ Create a list of Indian dishes]( https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L45)
+- [Display the menu using functional aspects](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L49)
+- [Using function as a parameter](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L53 )
+- [Using closures/anonymous functions](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L58 )
+
