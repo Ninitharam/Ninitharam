@@ -123,3 +123,4 @@ Two variants used and by mapping functional and non-functional requirements in 2
 - functions as parameters and return values
 - use closures / anonymous functions
 
+[Functional Programming link](https://github.com/Ninitharam/Ninitharam/tree/origin/FunctionalProgramming)
