@@ -131,5 +131,5 @@ Two variants used and by mapping functional and non-functional requirements in 2
 - [ Create a list of Indian dishes](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L47)
 - [Display the menu using functional aspects](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L5)
 - [Using function as a parameter](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L55)
-- [Using closures/anonymous functions](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L58 )
+- [Using closures/anonymous functions](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L60)
 
