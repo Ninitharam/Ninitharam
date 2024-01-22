@@ -117,7 +117,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 
 ### FUNCTIONAL PROGRAMMING
 
-[Functional Programming link](https://github.com/Ninitharam/Ninitharam/tree/origin/FunctionalProgramming)
+[Functional Programming Example link](https://github.com/Ninitharam/Ninitharam/tree/origin/FunctionalProgramming)
 
 - [only final data structures](https://github.com/Ninitharam/Ninitharam/blob/e9476578f5cc6522f25c0d7ade74151d5c090b6e/FunctionalProgramming/IndianCuisine.py#L5)
 - [(mostly) side-effect-free functions](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L17)
