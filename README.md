@@ -127,7 +127,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 - [Define initial data structure](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L40)
 - [Define initial data structure](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L41)
 - [Define initial data structure](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L42)
-- [Define initial data structure](
+- [Define initial data structure](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L43)
 - [ Create a list of Indian dishes]( https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L45)
 - [Display the menu using functional aspects](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L49)
 - [Using function as a parameter](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L53 )
