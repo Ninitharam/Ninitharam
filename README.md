@@ -116,7 +116,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 + Ctrl + Z (Undo) / Ctrl + Y (Redo) - Focus on coding without distractions.
 
 ### FUNCTIONAL PROGRAMMING
-- only final data structures
+- [only final data structures](https://github.com/Ninitharam/Ninitharam/blob/e9476578f5cc6522f25c0d7ade74151d5c090b6e/FunctionalProgramming/IndianCuisine.py#L5)
 - (mostly) side-effect-free functions
 - the use of higher-order functions
 - functions as parameters and return values
