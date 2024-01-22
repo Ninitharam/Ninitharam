@@ -123,7 +123,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 - [(mostly) side-effect-free functions](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L17)
 - [the use of higher-order functions](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L22)
 - [functions as parameters and return values](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L30) 
-- [use closures / anonymous functions](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L33)
+- [use closures / anonymous functions](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L35)
 - [Define initial data structure](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L38)
 - [ Create a list of Indian dishes]( https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L45)
 - [Display the menu using functional aspects](https://github.com/Ninitharam/Ninitharam/blob/db1bf0a1c46783790c16f9e5285f4f5a1790b827/FunctionalProgramming/IndianCuisine.py#L49)
