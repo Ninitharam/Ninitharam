@@ -128,7 +128,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 
 + Ctrl + Z (Undo) / Ctrl + Y (Redo) - Focus on coding without distractions.
 
-### 11.FUNCTIONAL PROGRAMMING
+### FUNCTIONAL PROGRAMMING
 
 [Functional Programming Example link](https://github.com/Ninitharam/Ninitharam/tree/origin/FunctionalProgramming)
 
