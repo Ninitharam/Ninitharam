@@ -1,4 +1,7 @@
 # HANGMAN GAME
+
+![image](https://github.com/Ninitharam/Ninitharam/assets/148867057/3a2a0c70-2eea-433b-9a89-a1c52abdee13)
+
 ### TABLE OF CONTENTS 
 - About
 - Prerequisite
@@ -83,22 +86,25 @@ Two variants used and by mapping functional and non-functional requirements in 2
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
 
 ### SONARQUBE
+
 [Overview Images](https://github.com/Ninitharam/Ninitharam/tree/origin/SonarCubeMetrics)
 
 ### 7.CLEAN CODE DEVLOPMENT
 
 + [CCD Link](https://github.com/Ninitharam/Ninitharam/blob/origin/CCD/CCD.pdf)
 
-+ [CCD Personal CheatSheet Link](https://github.com/Ninitharam/Ninitharam/blob/origin/CCD/CCD%20CheatSheet.pdf)
-
++ [CCD Personal CheatSheet Link](https://github.com/Ninitharam/Ninitharam/blob/origin/CCD/CCD%20CheatSheet.pd)
 
 ### 8.BUILD MANAGEMENT
 
-+ [Gitub Actions](https://github.com/Ninitharam/Ninitharam/tree/origin/github/workflows)
++ [Gitub Actions](https://github.com/Ninitharam/Ninitharam/blob/origin/github/workflows/main.yml)
 
-+ [Pybuilder management tool](https://github.com/Ninitharam/Ninitharam/tree/origin/BuildManagement)
++ [Pybuilder management tool](https://github.com/Ninitharam/Ninitharam/blob/origin/BuildManagement/Screenshot%20of%20Build.png)
  
 ### 9.UNIT TESTS
+
+[UnitTest Link](https://github.com/Ninitharam/Ninitharam/blob/origin/UnitTest/test_hangman.py)
+
 ### 10.IDE 
 + [Visual studio](https://visualstudio.microsoft.com/) 
   
