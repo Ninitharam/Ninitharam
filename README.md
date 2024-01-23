@@ -86,7 +86,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 
 ### 7.CLEAN CODE DEVLOPMENT
 
-[CCD](https://github.com/Ninitharam/Ninitharam/tree/origin/CCD)
+[CCD Link](https://github.com/Ninitharam/Ninitharam/tree/origin/CCD)
 
 ### 8.BUILD MANAGEMENT
 
