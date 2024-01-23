@@ -98,7 +98,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 
 ### BUILD MANAGEMENT AND UNIT TESTS
 
-+ [Gitub Actions](https://github.com/Ninitharam/Ninitharam/blob/origin/github/workflows/main.yml)
++ [GitHub Actions](https://github.com/Ninitharam/Ninitharam/blob/origin/github/workflows/main.yml)
 
 + [Pybuilder management tool](https://github.com/Ninitharam/Ninitharam/blob/origin/BuildManagement/Screenshot%20of%20Build.png)
 
