@@ -90,7 +90,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 
 ### 8.BUILD MANAGEMENT
 
-[Build ManagementLink](]https://github.com/Ninitharam/Ninitharam/tree/origin/BuildManagement/NinithaRam)
+[Build ManagementLink](https://github.com/Ninitharam/Ninitharam/tree/origin/BuildManagement/NinithaRam)
 
 ### 9.UNIT TESTS
 ### 10.IDE 
