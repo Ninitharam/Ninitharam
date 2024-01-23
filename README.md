@@ -96,10 +96,8 @@ Two variants used and by mapping functional and non-functional requirements in 2
 
 + [Gitub Actions](https://github.com/Ninitharam/Ninitharam/tree/origin/github/workflows)
 
-Pybuilder management tool 
-  + For installation -pip install pybuilder
-+ 
-
++ [Pybuilder management tool](https://github.com/Ninitharam/Ninitharam/tree/origin/BuildManagement)
+ 
 ### 9.UNIT TESTS
 ### 10.IDE 
 + [Visual studio](https://visualstudio.microsoft.com/) 
