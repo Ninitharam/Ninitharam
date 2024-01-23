@@ -89,6 +89,9 @@ Two variants used and by mapping functional and non-functional requirements in 2
 [CCD](https://github.com/Ninitharam/Ninitharam/tree/origin/CCD)
 
 ### 8.BUILD MANAGEMENT
+
+[Build ManagementLink](]https://github.com/Ninitharam/Ninitharam/tree/origin/BuildManagement/NinithaRam)
+
 ### 9.UNIT TESTS
 ### 10.IDE 
 + [Visual studio](https://visualstudio.microsoft.com/) 
