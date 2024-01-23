@@ -94,8 +94,11 @@ Two variants used and by mapping functional and non-functional requirements in 2
 
 ### 8.BUILD MANAGEMENT
 
-Pybuilder - pip install pybuilder 
++ [Gitub Actions](https://github.com/Ninitharam/Ninitharam/tree/origin/github/workflows)
 
+Pybuilder management tool 
+  + For installation -pip install pybuilder
++ 
 
 ### 9.UNIT TESTS
 ### 10.IDE 
