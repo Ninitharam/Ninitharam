@@ -52,11 +52,11 @@ Two variants used and by mapping functional and non-functional requirements in 2
 
 - Self-made version
     
-  [TRELLO](https://trello.com/b/7pobofqu/hangman-game)
+  [TRELLO Link](https://trello.com/b/7pobofqu/hangman-game)
   
 - Professional version 
   
-  [JIRA](https://softwaredevelopmentproject.atlassian.net/jira/software/projects/HG/boards/3)
+  [JIRA Link](https://softwaredevelopmentproject.atlassian.net/jira/software/projects/HG/boards/3)
 
  A permissions restriction may prevent access; an overview of the images is given
 
