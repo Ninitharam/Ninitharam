@@ -96,7 +96,6 @@ Two variants used and by mapping functional and non-functional requirements in 2
 
 Pybuilder - pip install pybuilder 
 
-[Build Management Example Link](https://github.com/Ninitharam/Ninitharam/tree/origin/BuildManagement/NinithaRam)
 
 ### 9.UNIT TESTS
 ### 10.IDE 
