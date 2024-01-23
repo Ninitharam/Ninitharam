@@ -79,6 +79,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 ### 6.METRICS
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
+[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
