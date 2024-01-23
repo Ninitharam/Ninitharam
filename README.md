@@ -87,9 +87,9 @@ Two variants used and by mapping functional and non-functional requirements in 2
 
 ### 7.CLEAN CODE DEVLOPMENT
 
-[CCD Link](https://github.com/Ninitharam/Ninitharam/blob/origin/CCD/CCD.pdf)
++ [CCD Link](https://github.com/Ninitharam/Ninitharam/blob/origin/CCD/CCD.pdf)
 
-[CCD Personal CheatSheet Link](https://github.com/Ninitharam/Ninitharam/blob/origin/CCD/CCD%20CheatSheet.pdf)
++ [CCD Personal CheatSheet Link](https://github.com/Ninitharam/Ninitharam/blob/origin/CCD/CCD%20CheatSheet.pdf)
 
 
 ### 8.BUILD MANAGEMENT
