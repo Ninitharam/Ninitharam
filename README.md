@@ -35,12 +35,12 @@ In an electronic version of the word guessing game Hangman, participants use let
   - Pygame Documentation: Essential for understanding the functions and modules in Pygame.
   - Visual Studio Python Documentation: Helpful for leveraging Visual Studio's features for Python development.
     
-### GIT COMMIT HISTORY
+### 1.GIT COMMIT HISTORY
 Usage of GitHub for the whole project time
 
 [GIT Commit History](https://github.com/Ninitharam/Ninitharam/commits/91513ffed749415ea4d3a1662572b54d90d0fdd1)
 
-### UML
+### 2.UML
 UML Diagrams created with Plantext UML
 
 + Dynamic-Activity diagram
@@ -50,7 +50,7 @@ PNGs and Planttext Files
 
 [UML Diagrams](https://github.com/Ninitharam/Ninitharam/tree/origin/UML%20Diagrams%20Link)
 
-### REQUIREMENT ENGINEERING
+### 3.REQUIREMENT ENGINEERING
 Two variants used and by mapping functional and non-functional requirements in 2 tools .
 
 - Self-made version
@@ -66,17 +66,17 @@ Two variants used and by mapping functional and non-functional requirements in 2
  [JIRA (Image Overview)](https://github.com/Ninitharam/Ninitharam/tree/origin/JIRA)
 
  
-### ANALYSIS
+### 4.ANALYSIS
 
  [Analysis Link](https://github.com/Ninitharam/Ninitharam/tree/origin/Analysis)
  
-### DDD (DOMAIN DRIVEN DEVELOPMENT )
+### 5.DDD (DOMAIN DRIVEN DEVELOPMENT )
 
 - [Event Storming ](https://miro.com/app/board/uXjVN3vYjKk=/?share_link_id=537377883470)
 - [Core Domain Chart and Mapping between Domains](https://github.com/Ninitharam/Ninitharam/assets/148867057/d6452691-2243-4485-8107-e88badaddf5e)
 - [DDD Overview Images](https://github.com/Ninitharam/Ninitharam/tree/origin/DDD)
 
-### METRICS
+### 6.METRICS
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
@@ -90,20 +90,24 @@ Two variants used and by mapping functional and non-functional requirements in 2
 
 [Overview Images](https://github.com/Ninitharam/Ninitharam/tree/origin/SonarCubeMetrics)
 
-### CLEAN CODE DEVLOPMENT
+### 7.CLEAN CODE DEVLOPMENT
 
 + [CCD Link](https://github.com/Ninitharam/Ninitharam/blob/origin/CCD/CCD.pdf)
 
 + [CCD Personal CheatSheet Link](https://github.com/Ninitharam/Ninitharam/blob/origin/CCD/CCD%20CheatSheet.pd)
 
-### BUILD MANAGEMENT AND UNIT TESTS
+### 8.BUILD MANAGEMENT 
 
 + [GitHub Actions](https://github.com/Ninitharam/Ninitharam/blob/origin/github/workflows/main.yml)
 
 + [Pybuilder management tool](https://github.com/Ninitharam/Ninitharam/blob/origin/BuildManagement/Screenshot%20of%20Build.png)
 
+### 9.UNIT TEST
 
-### IDE 
++ [Unit test file link](https://github.com/Ninitharam/Ninitharam/blob/origin/my_test_hangman.py)
++ [Unit test result link](https://github.com/Ninitharam/Ninitharam/tree/origin/UnitTestResults)
+
+### 10.IDE 
 + [Visual studio](https://visualstudio.microsoft.com/) 
   
 ### Favourite Shortcut Keys
@@ -128,7 +132,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 
 + Ctrl + Z (Undo) / Ctrl + Y (Redo) - Focus on coding without distractions.
 
-### FUNCTIONAL PROGRAMMING
+### 11.FUNCTIONAL PROGRAMMING
 
 [Functional Programming Example link](https://github.com/Ninitharam/Ninitharam/tree/origin/FunctionalProgramming)
 
