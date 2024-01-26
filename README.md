@@ -5,7 +5,7 @@
 ### TABLE OF CONTENTS 
 - About
 - Prerequisite
-- Git Commit History
+- Git 
 - UML
 - Requirements Engneering
 - Analysis
@@ -35,7 +35,7 @@ In an electronic version of the word guessing game Hangman, participants use let
   - Pygame Documentation: Essential for understanding the functions and modules in Pygame.
   - Visual Studio Python Documentation: Helpful for leveraging Visual Studio's features for Python development.
     
-### 1.GIT COMMIT HISTORY
+### 1.GIT 
 Usage of GitHub for the whole project time
 
 [GIT Commit History](https://github.com/Ninitharam/Ninitharam/commits/91513ffed749415ea4d3a1662572b54d90d0fdd1)
@@ -86,9 +86,9 @@ Two variants used and by mapping functional and non-functional requirements in 2
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
 
-### SONARQUBE
+### SONARCLOUD 
 
-[Overview Images](https://github.com/Ninitharam/Ninitharam/tree/origin/SonarCubeMetrics)
+[Overview Images](https://github.com/Ninitharam/Ninitharam/tree/origin/SonarCubeMetrics)(If link of metrics expires ,overview images are given)
 
 ### 7.CLEAN CODE DEVLOPMENT
 
