@@ -85,7 +85,7 @@ Two variants used and by mapping functional and non-functional requirements in 2
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
-
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Ninitharam_Ninitharam&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Ninitharam_Ninitharam)
 ### SONARCLOUD 
 
 [Overview Images](https://github.com/Ninitharam/Ninitharam/tree/origin/SonarCubeMetrics)(If link of metrics expires ,overview images are given)
